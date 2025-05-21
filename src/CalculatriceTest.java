@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CalculatriceTest {
 
+    // Test des méthodes de la classe calculatrice
     private Calculatrice calc;
 
     @BeforeEach
